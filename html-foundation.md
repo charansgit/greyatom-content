@@ -23,4 +23,5 @@ Main objectives of learning this module would be:
 
 ### What you will be able to build?
 Once you have the confidence and clean understanding of how html works and how to structure the document with elements you are ready to build something usefull and applicable for the real world. How about a form which accepts user inputs for online hotel room booking. It looks exactly as below:
+
 ![](html-only.png)
