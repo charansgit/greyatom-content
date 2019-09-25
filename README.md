@@ -18,3 +18,7 @@ Main objectives of learning this module would be:
 - To be able to create a "FORM" that is good enough to post data to the server
 - To be able to use newly added elements in HTML5
 - To be able to add "flash/video/audio" tags and play around with their respective controls
+
+### What you will be able to build?
+Once you have the confidence and clean understanding of how html works and how to structure the document with elements you are ready to build something usefull and applicable for the real world. How about a form which accepts user inputs for online hotel room booking. It looks exactly as below:
+![](profile_page.jpg)
