@@ -70,8 +70,8 @@ Doesn't it look super attractive now? That's the power of CSS as it can transfor
 	- `<i>`
 
 ### Project Tasks
-User story 1: Create a login form
-User story 2: Replicate Google home page
-User story 3: Create a personal portfolio web landing page
+- User story 1: Create a login form
+- User story 2: Replicate Google home page
+- User story 3: Create a personal portfolio web landing page
 
 ### AlL THE VERY BEST
