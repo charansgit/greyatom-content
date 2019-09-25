@@ -1,4 +1,4 @@
-## Time for some HTML foundation notes
+## HTML Foundation
 
 ### Introduction
 HTML is the point where you will probably start your career as a front end career. So it's very important to understand HTML and its foundation concepts. HTML is the document which is responsible for displaying content on the page and tells the browser how to display content on the page. Apart from creating webpages, you can also create games with the help of CSS and Javascript which are way more interesting and challenging to learn. Along with HTML, you should also learn CSS and Javascript to create the best possible webpages
